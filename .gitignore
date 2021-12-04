@@ -130,4 +130,5 @@ dmypy.json
 
 # Tmp folder
 /tmp
+tmp/
 .DS_Store
